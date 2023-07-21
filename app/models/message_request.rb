@@ -1,0 +1,2 @@
+class MessageRequest < ApplicationRecord
+end
